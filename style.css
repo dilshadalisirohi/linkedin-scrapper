@@ -1,0 +1,11 @@
+.getDataButton {
+  position: absolute;
+  z-index: 9999;
+  top: 0;
+  right: 0;
+  width: 100px;
+  height: 50px;
+  background-color: black !important;
+  color: white;
+  border-radius: 35px;
+}
